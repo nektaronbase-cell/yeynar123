@@ -1,0 +1,5 @@
+{
+  "name": "METAraffle",
+  "description": "A high-frequency, blockchain-simulated raffle platform where blocks execute every 2 hours or when the pot hits $2600. Features automated yield distribution and meta-rewards.",
+  "requestFramePermissions": []
+}
